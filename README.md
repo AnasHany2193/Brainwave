@@ -56,6 +56,10 @@ Here is a screenshot of the application:
 - **Node.js**: JavaScript runtime for server-side development 🟢
 - **Express**: Web application framework for Node.js 🚀
 
+## Live Demo
+
+Check out the live demo [here](https://brainwave-2193.netlify.app/)! 🚀
+
 ## ✨ Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are always welcome! 🌟
